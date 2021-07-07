@@ -1,1 +1,10 @@
-{}
+{
+  "custom-list": [
+    {
+      "custom-list-item": "Listen"
+    },
+    {
+      "custom-list-item": "Contact"
+    }
+  ]
+}
