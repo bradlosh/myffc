@@ -6,5 +6,9 @@
     {
       "custom-list-item": "Contact"
     }
-  ]
+  ],
+  "custom-field": "this is a test",
+  "custom-object": {
+    "custom-line": "testing the object line"
+  }
 }
